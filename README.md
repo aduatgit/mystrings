@@ -1,0 +1,2 @@
+# mystrings
+more go tinkering
